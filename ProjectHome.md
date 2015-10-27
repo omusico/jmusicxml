@@ -1,0 +1,1 @@
+JMusicXml is a low framework to handle data using the musicXml format.
